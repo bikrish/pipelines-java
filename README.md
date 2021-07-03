@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bikrishdevops/bikrishproject/_apis/build/status/bikrish.pipelines-java?branchName=master)](https://dev.azure.com/bikrishdevops/bikrishproject/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
